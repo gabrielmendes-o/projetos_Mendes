@@ -13,13 +13,13 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 1rem 17rem;
-	margin-bottom: 10rem;
+	padding: 1rem 14rem;
+	margin-bottom: 1rem;
 }
 nav a {
 	
 	text-decoration: none;
-  	margin-right: 6rem;
+  	margin-right: 2rem;
   	font-weight: bold;
 }
 
@@ -33,7 +33,6 @@ nav a {
 .nego{
 	display: flex;
 	flex-direction: column;
-	background-color: black;
 	align-items: center;
 	padding: 1rem 17rem;
 }
