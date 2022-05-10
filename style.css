@@ -29,3 +29,11 @@ nav a {
 	align-items: center;
 	padding: 1rem 17rem;
 }
+
+.nego{
+	display: flex;
+	flex-direction: column;
+	background-color: black;
+	align-items: center;
+	padding: 1rem 17rem;
+}
